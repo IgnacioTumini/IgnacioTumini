@@ -8,8 +8,9 @@ Además, realicé el curso de Fullstack en Coderhouse durante un año y el bootc
 
 - 🛠️ JavaScript (JS), TypeScript (TS)
 - 🎨 HTML, CSS, SCSS, Bootstrap
+- ⚙️ Testing: Jasmine, Jest
 - 🌐 Frontend: React
-- 🚀 Backend: Node.js, NestJS
+- 🚀 Backend: Node.js, NestJS, Express
 - 🛢️ Bases de datos: MongoDB (Mongoose), PostgreSQL(TypeORM), Firebase
 
 ## 📧 Contacto
